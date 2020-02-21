@@ -71,5 +71,19 @@
     color: white;
     padding: 10px 15px;
 }
+.page-7{
+    margin: 0;
+    padding: 8% 0;
+    background-color: #F8F9FA;
+    text-align: center;
+}
+.page-7-form{
+    margin: 5%;
+    padding: 5%;
+    background-color: white;
+    text-align: justify;    
+    font-weight: bolder;
+    color: #484848;
+}
 
 
