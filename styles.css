@@ -26,11 +26,25 @@
 }
 .containers-item{
     margin: 5%;
-    padding: 5% 0;
+    padding: 5% 5%;
     background-color: white;
     text-align: justify;    
     font-weight: bolder;
     color: #484848;
+}
+.card-deck{
+    text-align: center;
+    display: flex;
+    padding: 0 5% ;
+    margin: 0 3%;
+}
+.btn-black{
+    margin: 0 15%;
+}
+sub,sup{
+    font-weight: 100;
+    font-size: 0.5em;
+    color: gray;
 }
 span{
     color: #FF7128;
