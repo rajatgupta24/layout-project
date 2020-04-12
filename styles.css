@@ -42,9 +42,7 @@
 }
 .card-deck{
     text-align: center;
-    display: flex;
-    padding: 0 5% ;
-    margin: 0 3%;
+
 }
 .btn-black{
     margin: 0 15%;
