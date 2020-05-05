@@ -1,2 +1,2 @@
-# layout-project
-This is a frontend layout project. It's my first project. 
+# Product landing page 
+this is a layout for landing page of a product made using BOOTSTRAP(css framework).
